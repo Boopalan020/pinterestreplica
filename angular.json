@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "pinterestreplica"
+  "defaultProject": "pinterestreplica",
+  "cli": {
+    "analytics": "bce35e22-b4fd-49d0-93c0-b2bbf461505f"
+  }
 }
